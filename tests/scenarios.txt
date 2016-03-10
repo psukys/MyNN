@@ -1,0 +1,6 @@
+Possible test scenarios:
+ - As offered in [1], use basic mathematical functions
+ - As offered in [1], use Rosenbrock function
+ - As offered in [1], use Iris dataset. Although it is questionable of how to get it to work for me.
+
+ [1] - http://stackoverflow.com/a/28787875
